@@ -1,0 +1,79 @@
+{
+  "pid": 22412,
+  "workareas": [
+    {
+      "screen": "\\\\.\\DISPLAY1",
+      "workarea": [
+        0,
+        0,
+        1920,
+        1032
+      ]
+    },
+    {
+      "screen": "DELL P2425H",
+      "workarea": [
+        0,
+        -1080,
+        1920,
+        1032
+      ]
+    }
+  ],
+  "visible_windows": [
+    {
+      "title": "pythonw",
+      "rect": [
+        1909,
+        1021,
+        1914,
+        1026
+      ]
+    },
+    {
+      "title": "Web MCQ Fast — Cài đặt",
+      "rect": [
+        760,
+        116,
+        1160,
+        955
+      ]
+    }
+  ],
+  "ui_config_unchanged": true,
+  "reading_mode_after_toggle_roundtrip": "auto",
+  "verified_live": [
+    "Settings visible from --settings startup",
+    "Settings Cancel followed by remote Ctrl+Alt+Shift+P opens again",
+    "Ctrl+Q changes auto to manual and back to auto",
+    "--settings IPC opens Settings on existing process"
+  ],
+  "not_verified": [
+    "physical keyboard input",
+    "hold F7/F8 plus Settings simultaneous real input; native routing covered by isolated tests"
+  ],
+  "final_pid": 28616,
+  "final_visible_windows": [
+    {
+      "title": "pythonw",
+      "rect": [
+        1909,
+        1021,
+        1914,
+        1026
+      ]
+    },
+    {
+      "title": "Web MCQ Fast — Cài đặt",
+      "rect": [
+        760,
+        -964,
+        1160,
+        -125
+      ]
+    }
+  ],
+  "final_process_started_after_source_edit": true,
+  "final_settings_visible": true,
+  "final_keys_unchanged": true
+}

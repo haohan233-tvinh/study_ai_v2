@@ -1,0 +1,52 @@
+# Local Python state
+__pycache__/
+*.py[cod]
+.venv/
+.venv-train/
+backups/dl-upgrade-*/
+data/deep_learning/pages/
+data/deep_learning/dataset_images/
+data/deep_learning/captures/
+artifacts/deep_learning/
+.pytest_cache/
+
+# Downloaded models, runtimes, and caches (several gigabytes)
+models/
+runtime/
+
+# Local run output
+logs/
+artifacts/*.log
+artifacts/*.pid
+artifacts/*.err.log
+
+# Local secrets and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# PyInstaller & build outputs
+build/
+dist/
+_internal/
+*.exe
+fast_v2/build/
+fast_v2/dist/
+fast_v2/_internal/
+fast_v2/*.exe
+fast_v2/logs/
+fast_v2/artifacts/
+fast_v2/ui_settings.json
+fast_v2/browser_extension/bridge-config.json
+
+# Audit test logs
+network_audit_*.json
+network_audit_*.txt
+.network_cache.*
+
+# Standalone V2 local evidence and shortcut backups
+backups/
+artifacts/
+fast_v2/artifacts/

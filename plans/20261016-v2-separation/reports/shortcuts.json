@@ -1,0 +1,16 @@
+[
+  {
+    "path": "C:\\Users\\vinh1\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Web MCQ Fast.lnk",
+    "target": "C:\\Users\\vinh1\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe",
+    "arguments": "\"D:\\pop\\study_ai_v2\\fast_v2\\tray_app.py\"",
+    "working_directory": "D:\\pop\\study_ai_v2\\fast_v2",
+    "hotkey": ""
+  },
+  {
+    "path": "C:\\Users\\vinh1\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Web MCQ Fast Start.lnk",
+    "target": "C:\\Users\\vinh1\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe",
+    "arguments": "\"D:\\pop\\study_ai_v2\\fast_v2\\tray_app.py\"",
+    "working_directory": "D:\\pop\\study_ai_v2\\fast_v2",
+    "hotkey": "Alt+Ctrl+W"
+  }
+]

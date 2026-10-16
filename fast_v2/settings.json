@@ -1,0 +1,23 @@
+{
+  "course": "deep_learning",
+  "model": "../models/deep_learning/base/Qwen3.5-2B-Q4_K_M.gguf",
+  "mmproj": "../models/deep_learning/base/mmproj-F16.gguf",
+  "server": "../runtime/cuda/llama-server.exe",
+  "knowledge": "../data/deep_learning/course_knowledge.json",
+  "course_dir": "D:/Study/Vinh/Study/semester 3/Deep Learning",
+  "device": "CUDA0",
+  "threads": 2,
+  "context_size": 4096,
+  "context_chars": 1800,
+  "max_tokens": 48,
+  "image_max_tokens": 1024,
+  "startup_timeout_seconds": 120,
+  "request_timeout_seconds": 60,
+  "min_request_interval_seconds": 4,
+  "max_gpu_temperature_c": 85,
+  "thermal_wait_seconds": 20,
+  "sleep_idle_seconds": 60,
+  "min_available_ram_mib": 1536,
+  "expected_options": 4,
+  "top_k": 2
+}

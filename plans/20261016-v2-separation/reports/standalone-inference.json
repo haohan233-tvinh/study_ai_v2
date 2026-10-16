@@ -1,0 +1,59 @@
+{
+  "workspace": "D:\\pop\\study_ai_v2",
+  "course": "deep_learning",
+  "cases": [
+    {
+      "name": "text_pytorch",
+      "expected": "B",
+      "correct": true,
+      "result": {
+        "best_choice": "B",
+        "matched_source": "Labworks/Labwork4_Pytorch.pdf (Slide 37)",
+        "method": "Local DL vision + course retrieval",
+        "multi": false,
+        "cached": false,
+        "seconds": 0.713,
+        "inference_seconds": 0.612,
+        "cooling_seconds": 0.109,
+        "image_hash": ""
+      }
+    },
+    {
+      "name": "vision_red",
+      "expected": "A",
+      "correct": true,
+      "result": {
+        "best_choice": "A",
+        "matched_source": "Suy luận trực tiếp từ câu hỏi/ảnh",
+        "method": "Local DL vision + course retrieval",
+        "multi": false,
+        "cached": false,
+        "seconds": 0.783,
+        "inference_seconds": 0.667,
+        "cooling_seconds": 0.094,
+        "image_hash": "853d638662aa3368a8663732a5fbaeb226712c27ab7f3ad9ab718ae006ea4c5d"
+      }
+    },
+    {
+      "name": "vision_blue",
+      "expected": "B",
+      "correct": true,
+      "result": {
+        "best_choice": "B",
+        "matched_source": "Suy luận trực tiếp từ câu hỏi/ảnh",
+        "method": "Local DL vision + course retrieval",
+        "multi": false,
+        "cached": false,
+        "seconds": 0.493,
+        "inference_seconds": 0.413,
+        "cooling_seconds": 0.078,
+        "image_hash": "be99565fa5c4b731d718e03c0d2e0bbb83427bbd84133b18a66f00e4a6a884c1"
+      }
+    }
+  ],
+  "warm_seconds": 16.981,
+  "health": {
+    "status": "ok"
+  },
+  "test_server_closed": true
+}

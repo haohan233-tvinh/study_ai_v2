@@ -1,0 +1,106 @@
+{
+  "fingerprint": "bcc658696c41d3d0128927c84cc832e88ba1e0e48f4d3b06ad34da50c7bcea68",
+  "sources": [
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\1-Review of Linear Regression.pdf",
+      "relative_source": "Slides/1-Review of Linear Regression.pdf",
+      "sha256": "a4fd64d1a6200d5f51b90bc2e35ffd1cba01777e4052def24dd3311acd4fb834",
+      "pages": 27
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\2-Review of Logistic Regression.pdf",
+      "relative_source": "Slides/2-Review of Logistic Regression.pdf",
+      "sha256": "a0d29d92c2f504e0069995f398158234b8d355b4e1e940c0b79eb866a10938db",
+      "pages": 24
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\3-Neural Network.pdf",
+      "relative_source": "Slides/3-Neural Network.pdf",
+      "sha256": "9035e38e531ae4b308d33ae50651e887061d42ac96d0d4a74ce95e971c7f0c89",
+      "pages": 26
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\4-Backpropagation.pdf",
+      "relative_source": "Slides/4-Backpropagation.pdf",
+      "sha256": "ab756ca8c25db86aa649184dd8e1052656ac7d7ec0a224c77df74012464bcebf",
+      "pages": 22
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\5-Convolutional Neural Network.pdf",
+      "relative_source": "Slides/5-Convolutional Neural Network.pdf",
+      "sha256": "506ae432494bf71de6f60c4a304f98f11bbca5933042a85a2f23bd993113848d",
+      "pages": 42
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\6-CNN for Image Classification.pdf",
+      "relative_source": "Slides/6-CNN for Image Classification.pdf",
+      "sha256": "e0975c2a58c1fa8495f31124b8e84a3d3aa6680f93e52e0f745679575b7a1b4e",
+      "pages": 43
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\7-Object Detection and Image Segmentation.pdf",
+      "relative_source": "Slides/7-Object Detection and Image Segmentation.pdf",
+      "sha256": "d4204eb3c993307375faa917b296247be4a2af3d78658984e5a0bd82555bd3a1",
+      "pages": 58
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\8a-Attention is All you need.pdf",
+      "relative_source": "Slides/8a-Attention is All you need.pdf",
+      "sha256": "bdfaa68d8984f0dc02beaca527b76f207d99b666d31d1da728ee0728182df697",
+      "pages": 15
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\8b-Self_Attention.pdf",
+      "relative_source": "Slides/8b-Self_Attention.pdf",
+      "sha256": "e6cee118e1780a0a91e8b491f584230575d3c3316b97007d1b1a9219b6551cbb",
+      "pages": 54
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Slides\\9-Transformers.pdf",
+      "relative_source": "Slides/9-Transformers.pdf",
+      "sha256": "9cd8d57c6262c84571feab385e4cbcfc7b7211df140584b48e9fc10b2fd51aee",
+      "pages": 72
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Labworks\\Labwork3_Perceptron.pdf",
+      "relative_source": "Labworks/Labwork3_Perceptron.pdf",
+      "sha256": "ea698204cc931ed0163df326b7af3301b011f23c26245f46729aa0e3e093a7d4",
+      "pages": 33
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Labworks\\Labwork4_Pytorch.pdf",
+      "relative_source": "Labworks/Labwork4_Pytorch.pdf",
+      "sha256": "85a7304bc65bd55d0d4ed303dfb504f0ffabb8d26f38b1a3e1a6b31767b82967",
+      "pages": 37
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Labworks\\Labwork5_Image Classification.pdf",
+      "relative_source": "Labworks/Labwork5_Image Classification.pdf",
+      "sha256": "783f7f221664c2b48c4cd0b1f40a9926a8b41c8d6d54fdc5eb2bd5e012e9da12",
+      "pages": 4
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Labworks\\Labwork6_Object Detection and Segmentation.pdf",
+      "relative_source": "Labworks/Labwork6_Object Detection and Segmentation.pdf",
+      "sha256": "fbc4bf402304af9cfc7d11279176ac36dc7cbc23583c2c5ce976fa9afa828168",
+      "pages": 4
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Exercise 1.pdf",
+      "relative_source": "Exercise 1.pdf",
+      "sha256": "c556e57037eafbfea71dfacdbb5cbbb0582d788fc66e874105764bd404390670",
+      "pages": 4
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Exercise2.pdf",
+      "relative_source": "Exercise2.pdf",
+      "sha256": "6655b03a1c46defc312b950de807a5d1fe9dd03c3131577f3aa00a08146ad991",
+      "pages": 4
+    },
+    {
+      "source": "D:\\Study\\Vinh\\Study\\semester 3\\Deep Learning\\Codew\\XOR\\xor_code.py",
+      "relative_source": "Codew/XOR/xor_code.py",
+      "sha256": "5bef305847d35c9145e387c97bb0ef5a8a57dfed946bc406a1f0d45452910845"
+    }
+  ]
+}
